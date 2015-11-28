@@ -1,0 +1,4 @@
+viewport tag is important while developing the apps for mobile domain
+while zooming.
+html entities are used for special characters.
+iframes are used for embedding content from other sites like youtube etc.
